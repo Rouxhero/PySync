@@ -3,7 +3,7 @@
 
 # Path: main.py
 
-path = '#path#'
+path = "'#path#'"
 
 
 import os
